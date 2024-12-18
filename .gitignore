@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+Pipfile.lock
+env/
+*.env
+.venv/
+
+# venvpip
+# mechanicalsoup
+
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Local configuration files
+config.ini
+.env
+
+# Python egg files
+*.egg
+*.egg-info/
+.eggs/
